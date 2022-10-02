@@ -1,0 +1,2 @@
+This project does an analysis on a sales store in india, to help the management make better decisions 
+the project involves creating relationships between tables, creating additional coulmns and a few conditional column in the DAX language
